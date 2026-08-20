@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Scraped and Parsed Datasets (Keep data local only)
+data/
+*.log
+download.log
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment Variables & Secrets
+.env
+.env.*
+*.pem
+*.key
+
+# OS and Editor files
+.DS_Store
+.idea/
+.vscode/

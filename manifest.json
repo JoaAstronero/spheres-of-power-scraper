@@ -1,0 +1,2705 @@
+{
+  "metadata": {
+    "source": "http://spheresofpower.wikidot.com",
+    "version": "Spheres of Power Wikidot Manifest 1.0",
+    "total_categories": 7,
+    "total_unique_urls": 480
+  },
+  "spheres": {
+    "magic": [
+      {
+        "name": "Alteration",
+        "slug": "alteration",
+        "url": "http://spheresofpower.wikidot.com/alteration"
+      },
+      {
+        "name": "Blood",
+        "slug": "blood",
+        "url": "http://spheresofpower.wikidot.com/blood"
+      },
+      {
+        "name": "Conjuration",
+        "slug": "conjuration",
+        "url": "http://spheresofpower.wikidot.com/conjuration"
+      },
+      {
+        "name": "Creation",
+        "slug": "creation",
+        "url": "http://spheresofpower.wikidot.com/creation"
+      },
+      {
+        "name": "Dark",
+        "slug": "dark",
+        "url": "http://spheresofpower.wikidot.com/dark"
+      },
+      {
+        "name": "Polished Dark",
+        "slug": "polished-dark",
+        "url": "http://spheresofpower.wikidot.com/polished-dark"
+      },
+      {
+        "name": "Death",
+        "slug": "death",
+        "url": "http://spheresofpower.wikidot.com/death"
+      },
+      {
+        "name": "Destruction",
+        "slug": "destruction",
+        "url": "http://spheresofpower.wikidot.com/destruction"
+      },
+      {
+        "name": "Divination",
+        "slug": "divination",
+        "url": "http://spheresofpower.wikidot.com/divination"
+      },
+      {
+        "name": "Enhancement",
+        "slug": "enhancement",
+        "url": "http://spheresofpower.wikidot.com/enhancement"
+      },
+      {
+        "name": "Fallen Fey",
+        "slug": "fallen-fey",
+        "url": "http://spheresofpower.wikidot.com/fallen-fey"
+      },
+      {
+        "name": "Fate",
+        "slug": "fate",
+        "url": "http://spheresofpower.wikidot.com/fate"
+      },
+      {
+        "name": "Illusion",
+        "slug": "illusion",
+        "url": "http://spheresofpower.wikidot.com/illusion"
+      },
+      {
+        "name": "Life",
+        "slug": "life",
+        "url": "http://spheresofpower.wikidot.com/life"
+      },
+      {
+        "name": "Light",
+        "slug": "light",
+        "url": "http://spheresofpower.wikidot.com/light"
+      },
+      {
+        "name": "Mana",
+        "slug": "mana",
+        "url": "http://spheresofpower.wikidot.com/mana"
+      },
+      {
+        "name": "Mind",
+        "slug": "mind",
+        "url": "http://spheresofpower.wikidot.com/mind"
+      },
+      {
+        "name": "Nature",
+        "slug": "nature",
+        "url": "http://spheresofpower.wikidot.com/nature"
+      },
+      {
+        "name": "Protection",
+        "slug": "protection",
+        "url": "http://spheresofpower.wikidot.com/protection"
+      },
+      {
+        "name": "Telekinesis",
+        "slug": "telekinesis",
+        "url": "http://spheresofpower.wikidot.com/telekinesis"
+      },
+      {
+        "name": "Time",
+        "slug": "time",
+        "url": "http://spheresofpower.wikidot.com/time"
+      },
+      {
+        "name": "War",
+        "slug": "war",
+        "url": "http://spheresofpower.wikidot.com/war"
+      },
+      {
+        "name": "Warp",
+        "slug": "warp",
+        "url": "http://spheresofpower.wikidot.com/warp"
+      },
+      {
+        "name": "Weather",
+        "slug": "weather",
+        "url": "http://spheresofpower.wikidot.com/weather"
+      },
+      {
+        "name": "Bear",
+        "slug": "bear",
+        "url": "http://spheresofpower.wikidot.com/bear"
+      },
+      {
+        "name": "Technomancy",
+        "slug": "technomancy",
+        "url": "http://spheresofpower.wikidot.com/technomancy"
+      },
+      {
+        "name": "Veilweaving",
+        "slug": "veilweaving",
+        "url": "http://spheresofpower.wikidot.com/veilweaving"
+      }
+    ],
+    "combat": [
+      {
+        "name": "Alchemy",
+        "slug": "alchemy",
+        "url": "http://spheresofpower.wikidot.com/alchemy"
+      },
+      {
+        "name": "Athletics",
+        "slug": "athletics",
+        "url": "http://spheresofpower.wikidot.com/athletics"
+      },
+      {
+        "name": "Barrage",
+        "slug": "barrage",
+        "url": "http://spheresofpower.wikidot.com/barrage"
+      },
+      {
+        "name": "Barroom",
+        "slug": "barroom",
+        "url": "http://spheresofpower.wikidot.com/barroom"
+      },
+      {
+        "name": "Beastmastery",
+        "slug": "beastmastery",
+        "url": "http://spheresofpower.wikidot.com/beastmastery"
+      },
+      {
+        "name": "Berserker",
+        "slug": "berserker",
+        "url": "http://spheresofpower.wikidot.com/berserker"
+      },
+      {
+        "name": "Boxing",
+        "slug": "boxing",
+        "url": "http://spheresofpower.wikidot.com/boxing"
+      },
+      {
+        "name": "Brute",
+        "slug": "brute",
+        "url": "http://spheresofpower.wikidot.com/brute"
+      },
+      {
+        "name": "Dual Wielding",
+        "slug": "dual-wielding",
+        "url": "http://spheresofpower.wikidot.com/dual-wielding"
+      },
+      {
+        "name": "Duelist",
+        "slug": "duelist",
+        "url": "http://spheresofpower.wikidot.com/duelist"
+      },
+      {
+        "name": "Equipment",
+        "slug": "equipment-sphere",
+        "url": "http://spheresofpower.wikidot.com/equipment-sphere"
+      },
+      {
+        "name": "Fencing",
+        "slug": "fencing",
+        "url": "http://spheresofpower.wikidot.com/fencing"
+      },
+      {
+        "name": "Gladiator",
+        "slug": "gladiator",
+        "url": "http://spheresofpower.wikidot.com/gladiator"
+      },
+      {
+        "name": "Guardian",
+        "slug": "guardian",
+        "url": "http://spheresofpower.wikidot.com/guardian"
+      },
+      {
+        "name": "Lancer",
+        "slug": "lancer",
+        "url": "http://spheresofpower.wikidot.com/lancer"
+      },
+      {
+        "name": "Open Hand",
+        "slug": "open-hand",
+        "url": "http://spheresofpower.wikidot.com/open-hand"
+      },
+      {
+        "name": "Scoundrel",
+        "slug": "scoundrel",
+        "url": "http://spheresofpower.wikidot.com/scoundrel"
+      },
+      {
+        "name": "Scout",
+        "slug": "scout",
+        "url": "http://spheresofpower.wikidot.com/scout"
+      },
+      {
+        "name": "Shield",
+        "slug": "shield",
+        "url": "http://spheresofpower.wikidot.com/shield"
+      },
+      {
+        "name": "Sniper",
+        "slug": "sniper",
+        "url": "http://spheresofpower.wikidot.com/sniper"
+      },
+      {
+        "name": "Trap",
+        "slug": "trap",
+        "url": "http://spheresofpower.wikidot.com/trap"
+      },
+      {
+        "name": "Warleader",
+        "slug": "warleader-sphere",
+        "url": "http://spheresofpower.wikidot.com/warleader-sphere"
+      },
+      {
+        "name": "Wrestling",
+        "slug": "wrestling",
+        "url": "http://spheresofpower.wikidot.com/wrestling"
+      },
+      {
+        "name": "Leadership",
+        "slug": "leadership",
+        "url": "http://spheresofpower.wikidot.com/leadership"
+      },
+      {
+        "name": "Tech",
+        "slug": "tech",
+        "url": "http://spheresofpower.wikidot.com/tech"
+      },
+      {
+        "name": "Tinker",
+        "slug": "tinker",
+        "url": "http://spheresofpower.wikidot.com/tinker"
+      },
+      {
+        "name": "Pilot",
+        "slug": "pilot",
+        "url": "http://spheresofpower.wikidot.com/pilot"
+      }
+    ],
+    "skill": [
+      {
+        "name": "Artifice",
+        "slug": "artifice",
+        "url": "http://spheresofpower.wikidot.com/artifice"
+      },
+      {
+        "name": "Bluster",
+        "slug": "bluster",
+        "url": "http://spheresofpower.wikidot.com/bluster"
+      },
+      {
+        "name": "Body Control",
+        "slug": "body-control",
+        "url": "http://spheresofpower.wikidot.com/body-control"
+      },
+      {
+        "name": "Communication",
+        "slug": "communication",
+        "url": "http://spheresofpower.wikidot.com/communication"
+      },
+      {
+        "name": "Faction",
+        "slug": "faction",
+        "url": "http://spheresofpower.wikidot.com/faction"
+      },
+      {
+        "name": "Herbalism",
+        "slug": "herbalism",
+        "url": "http://spheresofpower.wikidot.com/herbalism"
+      },
+      {
+        "name": "Infiltration",
+        "slug": "infiltration",
+        "url": "http://spheresofpower.wikidot.com/infiltration"
+      },
+      {
+        "name": "Investigation",
+        "slug": "investigation",
+        "url": "http://spheresofpower.wikidot.com/investigation"
+      },
+      {
+        "name": "Navigation",
+        "slug": "navigation",
+        "url": "http://spheresofpower.wikidot.com/navigation"
+      },
+      {
+        "name": "Performance",
+        "slug": "performance",
+        "url": "http://spheresofpower.wikidot.com/performance"
+      },
+      {
+        "name": "Spellhacking",
+        "slug": "spellhacking",
+        "url": "http://spheresofpower.wikidot.com/spellhacking"
+      },
+      {
+        "name": "Study",
+        "slug": "study",
+        "url": "http://spheresofpower.wikidot.com/study"
+      },
+      {
+        "name": "Subterfuge",
+        "slug": "subterfuge",
+        "url": "http://spheresofpower.wikidot.com/subterfuge"
+      },
+      {
+        "name": "Survivalism",
+        "slug": "survivalism",
+        "url": "http://spheresofpower.wikidot.com/survivalism"
+      },
+      {
+        "name": "Vocation",
+        "slug": "vocation",
+        "url": "http://spheresofpower.wikidot.com/vocation"
+      },
+      {
+        "name": "Occultism",
+        "slug": "occultism",
+        "url": "http://spheresofpower.wikidot.com/occultism"
+      }
+    ]
+  },
+  "classes": {
+    "spherecasters": [
+      {
+        "name": "Armorist",
+        "slug": "armorist",
+        "url": "http://spheresofpower.wikidot.com/armorist"
+      },
+      {
+        "name": "Elementalist",
+        "slug": "elementalist",
+        "url": "http://spheresofpower.wikidot.com/elementalist"
+      },
+      {
+        "name": "Eliciter",
+        "slug": "eliciter",
+        "url": "http://spheresofpower.wikidot.com/eliciter"
+      },
+      {
+        "name": "Fey Adept",
+        "slug": "fey-adept",
+        "url": "http://spheresofpower.wikidot.com/fey-adept"
+      },
+      {
+        "name": "Hedgewitch",
+        "slug": "hedgewitch",
+        "url": "http://spheresofpower.wikidot.com/hedgewitch"
+      },
+      {
+        "name": "Incanter",
+        "slug": "incanter",
+        "url": "http://spheresofpower.wikidot.com/incanter"
+      },
+      {
+        "name": "Mageknight",
+        "slug": "mageknight",
+        "url": "http://spheresofpower.wikidot.com/mageknight"
+      },
+      {
+        "name": "Shifter",
+        "slug": "shifter",
+        "url": "http://spheresofpower.wikidot.com/shifter"
+      },
+      {
+        "name": "Soul Weaver",
+        "slug": "soul-weaver",
+        "url": "http://spheresofpower.wikidot.com/soul-weaver"
+      },
+      {
+        "name": "Symbiat",
+        "slug": "symbiat",
+        "url": "http://spheresofpower.wikidot.com/symbiat"
+      },
+      {
+        "name": "Thaumaturge",
+        "slug": "thaumaturge",
+        "url": "http://spheresofpower.wikidot.com/thaumaturge"
+      },
+      {
+        "name": "Wraith",
+        "slug": "wraith",
+        "url": "http://spheresofpower.wikidot.com/wraith"
+      }
+    ],
+    "practitioners": [
+      {
+        "name": "Armiger",
+        "slug": "armiger",
+        "url": "http://spheresofpower.wikidot.com/armiger"
+      },
+      {
+        "name": "Blacksmith",
+        "slug": "blacksmith",
+        "url": "http://spheresofpower.wikidot.com/blacksmith"
+      },
+      {
+        "name": "Commander",
+        "slug": "commander",
+        "url": "http://spheresofpower.wikidot.com/commander"
+      },
+      {
+        "name": "Conscript",
+        "slug": "conscript",
+        "url": "http://spheresofpower.wikidot.com/conscript"
+      },
+      {
+        "name": "Savant",
+        "slug": "savant-class",
+        "url": "http://spheresofpower.wikidot.com/savant-class"
+      },
+      {
+        "name": "Scholar",
+        "slug": "scholar",
+        "url": "http://spheresofpower.wikidot.com/scholar"
+      },
+      {
+        "name": "Sentinel",
+        "slug": "sentinel",
+        "url": "http://spheresofpower.wikidot.com/sentinel"
+      },
+      {
+        "name": "Striker",
+        "slug": "striker",
+        "url": "http://spheresofpower.wikidot.com/striker"
+      },
+      {
+        "name": "Technician",
+        "slug": "technician",
+        "url": "http://spheresofpower.wikidot.com/technician"
+      }
+    ],
+    "operatives": [
+      {
+        "name": "Agent",
+        "slug": "agent",
+        "url": "http://spheresofpower.wikidot.com/agent"
+      },
+      {
+        "name": "Courser",
+        "slug": "courser",
+        "url": "http://spheresofpower.wikidot.com/courser"
+      },
+      {
+        "name": "Envoy",
+        "slug": "envoy",
+        "url": "http://spheresofpower.wikidot.com/envoy"
+      },
+      {
+        "name": "Genius",
+        "slug": "genius",
+        "url": "http://spheresofpower.wikidot.com/genius"
+      },
+      {
+        "name": "Mastermind",
+        "slug": "mastermind",
+        "url": "http://spheresofpower.wikidot.com/mastermind"
+      },
+      {
+        "name": "Professional",
+        "slug": "professional",
+        "url": "http://spheresofpower.wikidot.com/professional"
+      },
+      {
+        "name": "Advisor",
+        "slug": "advisor",
+        "url": "http://spheresofpower.wikidot.com/advisor"
+      },
+      {
+        "name": "Conduit",
+        "slug": "conduit",
+        "url": "http://spheresofpower.wikidot.com/conduit"
+      }
+    ],
+    "champions": [
+      {
+        "name": "Bravo",
+        "slug": "bravo",
+        "url": "http://spheresofpower.wikidot.com/bravo"
+      },
+      {
+        "name": "Crimson Dancer",
+        "slug": "crimson-dancer",
+        "url": "http://spheresofpower.wikidot.com/crimson-dancer"
+      },
+      {
+        "name": "Dissident",
+        "slug": "dissident",
+        "url": "http://spheresofpower.wikidot.com/dissident"
+      },
+      {
+        "name": "Prodigy",
+        "slug": "prodigy",
+        "url": "http://spheresofpower.wikidot.com/prodigy"
+      },
+      {
+        "name": "Sage",
+        "slug": "sage",
+        "url": "http://spheresofpower.wikidot.com/sage"
+      },
+      {
+        "name": "Theorist",
+        "slug": "theorist",
+        "url": "http://spheresofpower.wikidot.com/theorist"
+      },
+      {
+        "name": "Troubadour",
+        "slug": "troubadour",
+        "url": "http://spheresofpower.wikidot.com/troubadour"
+      },
+      {
+        "name": "Warden",
+        "slug": "warden-class",
+        "url": "http://spheresofpower.wikidot.com/warden-class"
+      },
+      {
+        "name": "Dragoon",
+        "slug": "dragoon-class",
+        "url": "http://spheresofpower.wikidot.com/dragoon-class"
+      },
+      {
+        "name": "Mountebank",
+        "slug": "mountebank",
+        "url": "http://spheresofpower.wikidot.com/mountebank"
+      },
+      {
+        "name": "Necros",
+        "slug": "necros",
+        "url": "http://spheresofpower.wikidot.com/necros"
+      },
+      {
+        "name": "Raveler",
+        "slug": "raveler-class",
+        "url": "http://spheresofpower.wikidot.com/raveler-class"
+      },
+      {
+        "name": "Reaper",
+        "slug": "reaper",
+        "url": "http://spheresofpower.wikidot.com/reaper"
+      }
+    ],
+    "prestige": [
+      {
+        "name": "Aeronaut Captain",
+        "slug": "aeronaut-captain",
+        "url": "http://spheresofpower.wikidot.com/aeronaut-captain"
+      },
+      {
+        "name": "Archwizard",
+        "slug": "spheres-archwizard",
+        "url": "http://spheresofpower.wikidot.com/spheres-archwizard"
+      },
+      {
+        "name": "Bokor",
+        "slug": "bokor",
+        "url": "http://spheresofpower.wikidot.com/bokor"
+      },
+      {
+        "name": "Forest Lord",
+        "slug": "forest-lord",
+        "url": "http://spheresofpower.wikidot.com/forest-lord"
+      },
+      {
+        "name": "Hive",
+        "slug": "hive",
+        "url": "http://spheresofpower.wikidot.com/hive"
+      },
+      {
+        "name": "Kingking",
+        "slug": "kingking",
+        "url": "http://spheresofpower.wikidot.com/kingking"
+      },
+      {
+        "name": "Magemage",
+        "slug": "magemage",
+        "url": "http://spheresofpower.wikidot.com/magemage"
+      },
+      {
+        "name": "Realmwalker",
+        "slug": "realmwalker",
+        "url": "http://spheresofpower.wikidot.com/realmwalker"
+      },
+      {
+        "name": "Renowned Warrior",
+        "slug": "renowned-warrior",
+        "url": "http://spheresofpower.wikidot.com/renowned-warrior"
+      },
+      {
+        "name": "Tempestarii",
+        "slug": "tempestarii",
+        "url": "http://spheresofpower.wikidot.com/tempestarii"
+      },
+      {
+        "name": "Waking Sleeper",
+        "slug": "waking-sleeper",
+        "url": "http://spheresofpower.wikidot.com/waking-sleeper"
+      },
+      {
+        "name": "Alternate Justicar",
+        "slug": "alternate-justicar",
+        "url": "http://spheresofpower.wikidot.com/alternate-justicar"
+      },
+      {
+        "name": "Great Mind",
+        "slug": "great-mind",
+        "url": "http://spheresofpower.wikidot.com/great-mind"
+      },
+      {
+        "name": "Master Of Vagueries",
+        "slug": "master-of-vagueries",
+        "url": "http://spheresofpower.wikidot.com/master-of-vagueries"
+      },
+      {
+        "name": "Trinity Angel",
+        "slug": "trinity-angel",
+        "url": "http://spheresofpower.wikidot.com/trinity-angel"
+      },
+      {
+        "name": "Trinity Knight",
+        "slug": "trinity-knight",
+        "url": "http://spheresofpower.wikidot.com/trinity-knight"
+      }
+    ]
+  },
+  "options_and_rules": {
+    "magic_options": [
+      {
+        "name": "Alternate Racial Traits",
+        "slug": "alternate-racial-traits",
+        "url": "http://spheresofpower.wikidot.com/alternate-racial-traits"
+      },
+      {
+        "name": "Casting Traditions",
+        "slug": "casting-traditions",
+        "url": "http://spheresofpower.wikidot.com/casting-traditions"
+      },
+      {
+        "name": "Casting Packages",
+        "slug": "casting-packages",
+        "url": "http://spheresofpower.wikidot.com/casting-packages"
+      },
+      {
+        "name": "Feats",
+        "slug": "feats",
+        "url": "http://spheresofpower.wikidot.com/feats"
+      },
+      {
+        "name": "Generation Traditions",
+        "slug": "generation-traditions",
+        "url": "http://spheresofpower.wikidot.com/generation-traditions"
+      },
+      {
+        "name": "Origins",
+        "slug": "origins",
+        "url": "http://spheresofpower.wikidot.com/origins"
+      },
+      {
+        "name": "Traits",
+        "slug": "traits",
+        "url": "http://spheresofpower.wikidot.com/traits"
+      }
+    ],
+    "martial_options": [
+      {
+        "name": "Associated Feats & Skills",
+        "slug": "associated-feats-skills",
+        "url": "http://spheresofpower.wikidot.com/associated-feats-skills"
+      },
+      {
+        "name": "Martial Traditions",
+        "slug": "martial-traditions",
+        "url": "http://spheresofpower.wikidot.com/martial-traditions"
+      },
+      {
+        "name": "Martial Packages",
+        "slug": "martial-packages",
+        "url": "http://spheresofpower.wikidot.com/martial-packages"
+      },
+      {
+        "name": "Practitioner Feats",
+        "slug": "practitioner-feats",
+        "url": "http://spheresofpower.wikidot.com/practitioner-feats"
+      },
+      {
+        "name": "Practitioner Traits",
+        "slug": "practitioner-traits",
+        "url": "http://spheresofpower.wikidot.com/practitioner-traits"
+      },
+      {
+        "name": "Practitioner FCB's",
+        "slug": "practitioner-fcb-s",
+        "url": "http://spheresofpower.wikidot.com/practitioner-fcb-s"
+      },
+      {
+        "name": "Ultimate Engineering",
+        "slug": "ultimate-engineering",
+        "url": "http://spheresofpower.wikidot.com/ultimate-engineering"
+      }
+    ],
+    "skill_options": [
+      {
+        "name": "Associated Feats & Skills",
+        "slug": "guile-associated-feats-skills",
+        "url": "http://spheresofpower.wikidot.com/guile-associated-feats-skills"
+      },
+      {
+        "name": "Operative Feats",
+        "slug": "operative-feats",
+        "url": "http://spheresofpower.wikidot.com/operative-feats"
+      },
+      {
+        "name": "Operative Gear",
+        "slug": "operative-gear",
+        "url": "http://spheresofpower.wikidot.com/operative-gear"
+      },
+      {
+        "name": "Skill Rules",
+        "slug": "skill-rules",
+        "url": "http://spheresofpower.wikidot.com/skill-rules"
+      },
+      {
+        "name": "Trade Traditions",
+        "slug": "trade-traditions",
+        "url": "http://spheresofpower.wikidot.com/trade-traditions"
+      },
+      {
+        "name": "Random Motivation Generator",
+        "slug": "random-motivation-generator",
+        "url": "http://spheresofpower.wikidot.com/random-motivation-generator"
+      },
+      {
+        "name": "Reliance",
+        "slug": "reliance",
+        "url": "http://spheresofpower.wikidot.com/reliance"
+      }
+    ],
+    "champion_options": [
+      {
+        "name": "Champion Feats",
+        "slug": "champion-feats",
+        "url": "http://spheresofpower.wikidot.com/champion-feats"
+      },
+      {
+        "name": "Unified Traditions",
+        "slug": "unified-traditions",
+        "url": "http://spheresofpower.wikidot.com/unified-traditions"
+      },
+      {
+        "name": "Champion FCBs",
+        "slug": "champion-fcbs",
+        "url": "http://spheresofpower.wikidot.com/champion-fcbs"
+      },
+      {
+        "name": "Techniques",
+        "slug": "techniques",
+        "url": "http://spheresofpower.wikidot.com/techniques"
+      }
+    ],
+    "feat_types": [
+      {
+        "name": "Admixture",
+        "slug": "admixture-feats",
+        "url": "http://spheresofpower.wikidot.com/admixture-feats"
+      },
+      {
+        "name": "Anathema",
+        "slug": "anathema-feats",
+        "url": "http://spheresofpower.wikidot.com/anathema-feats"
+      },
+      {
+        "name": "Aristeia",
+        "slug": "aristeia-feats",
+        "url": "http://spheresofpower.wikidot.com/aristeia-feats"
+      },
+      {
+        "name": "Chance",
+        "slug": "chance-feats",
+        "url": "http://spheresofpower.wikidot.com/chance-feats"
+      },
+      {
+        "name": "Channeling",
+        "slug": "channeling-feats",
+        "url": "http://spheresofpower.wikidot.com/channeling-feats"
+      },
+      {
+        "name": "Combat",
+        "slug": "combat-feats",
+        "url": "http://spheresofpower.wikidot.com/combat-feats"
+      },
+      {
+        "name": "Companion",
+        "slug": "companion-feats",
+        "url": "http://spheresofpower.wikidot.com/companion-feats"
+      },
+      {
+        "name": "Counterspell",
+        "slug": "counterspell-feats",
+        "url": "http://spheresofpower.wikidot.com/counterspell-feats"
+      },
+      {
+        "name": "Damnation",
+        "slug": "damnation-feats",
+        "url": "http://spheresofpower.wikidot.com/damnation-feats"
+      },
+      {
+        "name": "Drawback",
+        "slug": "drawback-feats",
+        "url": "http://spheresofpower.wikidot.com/drawback-feats"
+      },
+      {
+        "name": "Extra",
+        "slug": "extra-feats",
+        "url": "http://spheresofpower.wikidot.com/extra-feats"
+      },
+      {
+        "name": "General",
+        "slug": "general-feats",
+        "url": "http://spheresofpower.wikidot.com/general-feats"
+      },
+      {
+        "name": "Item Creation",
+        "slug": "item-creation-feats",
+        "url": "http://spheresofpower.wikidot.com/item-creation-feats"
+      },
+      {
+        "name": "Metamagic",
+        "slug": "metamagic-feats",
+        "url": "http://spheresofpower.wikidot.com/metamagic-feats"
+      },
+      {
+        "name": "Necrosis",
+        "slug": "necrosis-feats",
+        "url": "http://spheresofpower.wikidot.com/necrosis-feats"
+      },
+      {
+        "name": "Plague",
+        "slug": "plague-feats",
+        "url": "http://spheresofpower.wikidot.com/plague-feats"
+      },
+      {
+        "name": "Protokinesis",
+        "slug": "protokinesis-feats",
+        "url": "http://spheresofpower.wikidot.com/protokinesis-feats"
+      },
+      {
+        "name": "Proxy",
+        "slug": "proxy-feats",
+        "url": "http://spheresofpower.wikidot.com/proxy-feats"
+      },
+      {
+        "name": "Purring",
+        "slug": "purring-feats",
+        "url": "http://spheresofpower.wikidot.com/purring-feats"
+      },
+      {
+        "name": "Racial",
+        "slug": "racial-feats",
+        "url": "http://spheresofpower.wikidot.com/racial-feats"
+      },
+      {
+        "name": "Ritual",
+        "slug": "ritual-feats",
+        "url": "http://spheresofpower.wikidot.com/ritual-feats"
+      },
+      {
+        "name": "Skybourne",
+        "slug": "skybourne-feats",
+        "url": "http://spheresofpower.wikidot.com/skybourne-feats"
+      },
+      {
+        "name": "Squadron",
+        "slug": "squadron-feats",
+        "url": "http://spheresofpower.wikidot.com/squadron-feats"
+      },
+      {
+        "name": "Surreal",
+        "slug": "surreal-feats",
+        "url": "http://spheresofpower.wikidot.com/surreal-feats"
+      },
+      {
+        "name": "Teamwork",
+        "slug": "teamwork-feats",
+        "url": "http://spheresofpower.wikidot.com/teamwork-feats"
+      },
+      {
+        "name": "Theurge",
+        "slug": "theurge-feats",
+        "url": "http://spheresofpower.wikidot.com/theurge-feats"
+      },
+      {
+        "name": "Wild Magic",
+        "slug": "wild-magic-feats",
+        "url": "http://spheresofpower.wikidot.com/wild-magic-feats"
+      },
+      {
+        "name": "Card and Deck Feats",
+        "slug": "card-and-deck-feats",
+        "url": "http://spheresofpower.wikidot.com/card-and-deck-feats"
+      }
+    ]
+  },
+  "gear_and_items": {
+    "general_gear": [
+      {
+        "name": "Weapons",
+        "slug": "weapons",
+        "url": "http://spheresofpower.wikidot.com/weapons"
+      },
+      {
+        "name": "Armor",
+        "slug": "armor",
+        "url": "http://spheresofpower.wikidot.com/armor"
+      },
+      {
+        "name": "Equipment",
+        "slug": "equipment",
+        "url": "http://spheresofpower.wikidot.com/equipment"
+      },
+      {
+        "name": "Special Materials",
+        "slug": "special-materials",
+        "url": "http://spheresofpower.wikidot.com/special-materials"
+      },
+      {
+        "name": "Magical Items",
+        "slug": "magical-items",
+        "url": "http://spheresofpower.wikidot.com/magical-items"
+      },
+      {
+        "name": "Alchemical Items",
+        "slug": "alchemical-items",
+        "url": "http://spheresofpower.wikidot.com/alchemical-items"
+      },
+      {
+        "name": "Apparatuses",
+        "slug": "apparatuses",
+        "url": "http://spheresofpower.wikidot.com/apparatuses"
+      },
+      {
+        "name": "Apparatuses, Metamagic",
+        "slug": "apparatuses-metamagic",
+        "url": "http://spheresofpower.wikidot.com/apparatuses-metamagic"
+      },
+      {
+        "name": "Charms",
+        "slug": "charms",
+        "url": "http://spheresofpower.wikidot.com/charms"
+      },
+      {
+        "name": "Compounds",
+        "slug": "compounds",
+        "url": "http://spheresofpower.wikidot.com/compounds"
+      },
+      {
+        "name": "Fabled Items",
+        "slug": "fabled-items",
+        "url": "http://spheresofpower.wikidot.com/fabled-items"
+      },
+      {
+        "name": "Implements",
+        "slug": "implements",
+        "url": "http://spheresofpower.wikidot.com/implements"
+      },
+      {
+        "name": "Marvelous Items",
+        "slug": "marvelous-items",
+        "url": "http://spheresofpower.wikidot.com/marvelous-items"
+      },
+      {
+        "name": "Radiances",
+        "slug": "radiances",
+        "url": "http://spheresofpower.wikidot.com/radiances"
+      },
+      {
+        "name": "Schematics",
+        "slug": "schematics",
+        "url": "http://spheresofpower.wikidot.com/schematics"
+      },
+      {
+        "name": "Scrolls",
+        "slug": "scrolls",
+        "url": "http://spheresofpower.wikidot.com/scrolls"
+      },
+      {
+        "name": "Spell Engines",
+        "slug": "spell-engines",
+        "url": "http://spheresofpower.wikidot.com/spell-engines"
+      },
+      {
+        "name": "Spellzones",
+        "slug": "spellzones",
+        "url": "http://spheresofpower.wikidot.com/spellzones"
+      },
+      {
+        "name": "Summoning Orbs",
+        "slug": "summoning-orbs",
+        "url": "http://spheresofpower.wikidot.com/summoning-orbs"
+      },
+      {
+        "name": "Talent Crystals",
+        "slug": "talent-crystals",
+        "url": "http://spheresofpower.wikidot.com/talent-crystals"
+      },
+      {
+        "name": "Card Sleeves",
+        "slug": "card-sleeves",
+        "url": "http://spheresofpower.wikidot.com/card-sleeves"
+      },
+      {
+        "name": "Loot Tables",
+        "slug": "loot-tables",
+        "url": "http://spheresofpower.wikidot.com/loot-tables"
+      }
+    ],
+    "practitioner_gear": [
+      {
+        "name": "Adventuring Gear",
+        "slug": "adventuring-gear",
+        "url": "http://spheresofpower.wikidot.com/adventuring-gear"
+      },
+      {
+        "name": "Mechanical Parts",
+        "slug": "mechanical-parts",
+        "url": "http://spheresofpower.wikidot.com/mechanical-parts"
+      },
+      {
+        "name": "Technological Gear",
+        "slug": "technological-gear",
+        "url": "http://spheresofpower.wikidot.com/technological-gear"
+      },
+      {
+        "name": "Practitioner Magic Items",
+        "slug": "practitioner-magic-items",
+        "url": "http://spheresofpower.wikidot.com/practitioner-magic-items"
+      },
+      {
+        "name": "Practitioner Weapons",
+        "slug": "practitioner-weapons",
+        "url": "http://spheresofpower.wikidot.com/practitioner-weapons"
+      }
+    ]
+  },
+  "archetypes_by_class": {
+    "Alchemist": [
+      {
+        "name": "Bioengineer",
+        "slug": "bioengineer",
+        "url": "http://spheresofpower.wikidot.com/bioengineer"
+      },
+      {
+        "name": "Biohacker",
+        "slug": "biohacker",
+        "url": "http://spheresofpower.wikidot.com/biohacker"
+      },
+      {
+        "name": "Champion Alchemist",
+        "slug": "champion-alchemist",
+        "url": "http://spheresofpower.wikidot.com/champion-alchemist"
+      },
+      {
+        "name": "Combat Engineer",
+        "slug": "combat-engineer",
+        "url": "http://spheresofpower.wikidot.com/combat-engineer"
+      },
+      {
+        "name": "Eldritch Infuser",
+        "slug": "eldritch-infuser",
+        "url": "http://spheresofpower.wikidot.com/eldritch-infuser"
+      },
+      {
+        "name": "Essentialist",
+        "slug": "essentialist",
+        "url": "http://spheresofpower.wikidot.com/essentialist"
+      },
+      {
+        "name": "Gun Chemist",
+        "slug": "gun-chemist",
+        "url": "http://spheresofpower.wikidot.com/gun-chemist"
+      },
+      {
+        "name": "Hemetic Philosopher",
+        "slug": "hemetic-philosopher",
+        "url": "http://spheresofpower.wikidot.com/hemetic-philosopher"
+      },
+      {
+        "name": "Machinist",
+        "slug": "machinist",
+        "url": "http://spheresofpower.wikidot.com/machinist"
+      },
+      {
+        "name": "Mortal Chemist",
+        "slug": "mortal-chemist",
+        "url": "http://spheresofpower.wikidot.com/mortal-chemist"
+      },
+      {
+        "name": "Physician",
+        "slug": "physician",
+        "url": "http://spheresofpower.wikidot.com/physician"
+      },
+      {
+        "name": "Sphere Alchemist",
+        "slug": "sphere-alchemist",
+        "url": "http://spheresofpower.wikidot.com/sphere-alchemist"
+      },
+      {
+        "name": "Weather Harvester",
+        "slug": "weather-harvester",
+        "url": "http://spheresofpower.wikidot.com/weather-harvester"
+      },
+      {
+        "name": "Alchemist Alternate Class Features",
+        "slug": "alchemist-alternate-class-features",
+        "url": "http://spheresofpower.wikidot.com/alchemist-alternate-class-features"
+      },
+      {
+        "name": "Alchemist Discoveries",
+        "slug": "alchemist-discoveries",
+        "url": "http://spheresofpower.wikidot.com/alchemist-discoveries"
+      }
+    ],
+    "Antipaladin": [
+      {
+        "name": "Antimage",
+        "slug": "antimage",
+        "url": "http://spheresofpower.wikidot.com/antimage"
+      },
+      {
+        "name": "Arbiter",
+        "slug": "arbiter",
+        "url": "http://spheresofpower.wikidot.com/arbiter"
+      },
+      {
+        "name": "Avowed",
+        "slug": "avowed",
+        "url": "http://spheresofpower.wikidot.com/avowed"
+      },
+      {
+        "name": "Blood-Soaked Demon",
+        "slug": "blood-soaked-demon",
+        "url": "http://spheresofpower.wikidot.com/blood-soaked-demon"
+      },
+      {
+        "name": "Champion Of The Cause",
+        "slug": "champion-of-the-cause",
+        "url": "http://spheresofpower.wikidot.com/champion-of-the-cause"
+      },
+      {
+        "name": "Grand Purifier",
+        "slug": "grand-purifier",
+        "url": "http://spheresofpower.wikidot.com/grand-purifier"
+      },
+      {
+        "name": "Soulrender",
+        "slug": "soulrender",
+        "url": "http://spheresofpower.wikidot.com/soulrender"
+      },
+      {
+        "name": "Sphere Antipaladin",
+        "slug": "sphere-antipaladin",
+        "url": "http://spheresofpower.wikidot.com/sphere-antipaladin"
+      },
+      {
+        "name": "Spheres Oathbound",
+        "slug": "spheres-oathbound",
+        "url": "http://spheresofpower.wikidot.com/spheres-oathbound"
+      },
+      {
+        "name": "Warrior of Blind Faith",
+        "slug": "warrior-of-blind-faith",
+        "url": "http://spheresofpower.wikidot.com/warrior-of-blind-faith"
+      }
+    ],
+    "Arcanist": [
+      {
+        "name": "Interminate",
+        "slug": "interminate",
+        "url": "http://spheresofpower.wikidot.com/interminate"
+      },
+      {
+        "name": "Sphere Arcanist",
+        "slug": "sphere-arcanist",
+        "url": "http://spheresofpower.wikidot.com/sphere-arcanist"
+      }
+    ],
+    "Barbarian": [
+      {
+        "name": "Barbearian",
+        "slug": "barbearian",
+        "url": "http://spheresofpower.wikidot.com/barbearian"
+      },
+      {
+        "name": "Berserker",
+        "slug": "barbarian-berserker",
+        "url": "http://spheresofpower.wikidot.com/barbarian-berserker"
+      },
+      {
+        "name": "Ferocious Brute",
+        "slug": "ferocious-brute",
+        "url": "http://spheresofpower.wikidot.com/ferocious-brute"
+      },
+      {
+        "name": "Painted Savage",
+        "slug": "painted-savage",
+        "url": "http://spheresofpower.wikidot.com/painted-savage"
+      },
+      {
+        "name": "Tranquil Barbarian",
+        "slug": "tranquil-barbarian",
+        "url": "http://spheresofpower.wikidot.com/tranquil-barbarian"
+      },
+      {
+        "name": "Worldsoul Incarnate",
+        "slug": "worldsoul-incarnate",
+        "url": "http://spheresofpower.wikidot.com/worldsoul-incarnate"
+      },
+      {
+        "name": "Barbarian Rage Powers",
+        "slug": "barbarian-rage-powers",
+        "url": "http://spheresofpower.wikidot.com/barbarian-rage-powers"
+      }
+    ],
+    "Barbarian, Unchained": [
+      {
+        "name": "Painted Savage",
+        "slug": "painted-savage",
+        "url": "http://spheresofpower.wikidot.com/painted-savage"
+      },
+      {
+        "name": "Super Soldier",
+        "slug": "super-soldier",
+        "url": "http://spheresofpower.wikidot.com/super-soldier"
+      },
+      {
+        "name": "Tribal Champion",
+        "slug": "tribal-champion",
+        "url": "http://spheresofpower.wikidot.com/tribal-champion"
+      },
+      {
+        "name": "Worldsoul Incarnate",
+        "slug": "worldsoul-incarnate",
+        "url": "http://spheresofpower.wikidot.com/worldsoul-incarnate"
+      }
+    ],
+    "Bard": [
+      {
+        "name": "Beast Piper",
+        "slug": "beast-piper",
+        "url": "http://spheresofpower.wikidot.com/beast-piper"
+      },
+      {
+        "name": "Champion Bard",
+        "slug": "champion-bard",
+        "url": "http://spheresofpower.wikidot.com/champion-bard"
+      },
+      {
+        "name": "Corteggiare",
+        "slug": "corteggiare",
+        "url": "http://spheresofpower.wikidot.com/corteggiare"
+      },
+      {
+        "name": "Knave",
+        "slug": "knave",
+        "url": "http://spheresofpower.wikidot.com/knave"
+      },
+      {
+        "name": "Kung Fu Exemplar",
+        "slug": "kung-fu-exemplar",
+        "url": "http://spheresofpower.wikidot.com/kung-fu-exemplar"
+      },
+      {
+        "name": "Minstrel",
+        "slug": "minstrel",
+        "url": "http://spheresofpower.wikidot.com/minstrel"
+      },
+      {
+        "name": "Musician",
+        "slug": "musician",
+        "url": "http://spheresofpower.wikidot.com/musician"
+      },
+      {
+        "name": "Purrsician",
+        "slug": "purrsician",
+        "url": "http://spheresofpower.wikidot.com/purrsician"
+      },
+      {
+        "name": "Sovereign Piper",
+        "slug": "sovereign-piper",
+        "url": "http://spheresofpower.wikidot.com/sovereign-piper"
+      },
+      {
+        "name": "Shadowsinger",
+        "slug": "shadowsinger",
+        "url": "http://spheresofpower.wikidot.com/shadowsinger"
+      },
+      {
+        "name": "Sphere Bard",
+        "slug": "sphere-bard",
+        "url": "http://spheresofpower.wikidot.com/sphere-bard"
+      },
+      {
+        "name": "Thespian",
+        "slug": "thespian",
+        "url": "http://spheresofpower.wikidot.com/thespian"
+      },
+      {
+        "name": "Bardic Masterpieces",
+        "slug": "bardic-masterpieces",
+        "url": "http://spheresofpower.wikidot.com/bardic-masterpieces"
+      }
+    ],
+    "Bloodrager": [
+      {
+        "name": "Hemophage",
+        "slug": "hemophage",
+        "url": "http://spheresofpower.wikidot.com/hemophage"
+      },
+      {
+        "name": "Mystic Scion",
+        "slug": "mystic-scion",
+        "url": "http://spheresofpower.wikidot.com/mystic-scion"
+      },
+      {
+        "name": "Sphere Bloodrager",
+        "slug": "sphere-bloodrager",
+        "url": "http://spheresofpower.wikidot.com/sphere-bloodrager"
+      },
+      {
+        "name": "Stormlord",
+        "slug": "stormlord",
+        "url": "http://spheresofpower.wikidot.com/stormlord"
+      },
+      {
+        "name": "Wendigo",
+        "slug": "wendigo",
+        "url": "http://spheresofpower.wikidot.com/wendigo"
+      }
+    ],
+    "Brawler": [
+      {
+        "name": "Brutal Pummeler",
+        "slug": "brutal-pummeler",
+        "url": "http://spheresofpower.wikidot.com/brutal-pummeler"
+      },
+      {
+        "name": "Mechanized Brawler",
+        "slug": "mechanized-brawler",
+        "url": "http://spheresofpower.wikidot.com/mechanized-brawler"
+      },
+      {
+        "name": "Prescient Pugilist",
+        "slug": "prescient-pugilist",
+        "url": "http://spheresofpower.wikidot.com/prescient-pugilist"
+      }
+    ],
+    "Cavalier": [
+      {
+        "name": "Blooded Knight",
+        "slug": "blooded-knight",
+        "url": "http://spheresofpower.wikidot.com/blooded-knight"
+      },
+      {
+        "name": "Cavalry Officer",
+        "slug": "cavalry-officer",
+        "url": "http://spheresofpower.wikidot.com/cavalry-officer"
+      },
+      {
+        "name": "Halfling Dragonrider",
+        "slug": "halfling-dragonrider",
+        "url": "http://spheresofpower.wikidot.com/halfling-dragonrider"
+      },
+      {
+        "name": "Knight of the Order",
+        "slug": "knight-of-the-order",
+        "url": "http://spheresofpower.wikidot.com/knight-of-the-order"
+      },
+      {
+        "name": "Cavalier Orders",
+        "slug": "cavalier-orders",
+        "url": "http://spheresofpower.wikidot.com/cavalier-orders"
+      }
+    ],
+    "Cleric": [
+      {
+        "name": "Faithful Shepherd",
+        "slug": "faithful-shepherd",
+        "url": "http://spheresofpower.wikidot.com/faithful-shepherd"
+      },
+      {
+        "name": "Kindred Keeper",
+        "slug": "kindred-keeper",
+        "url": "http://spheresofpower.wikidot.com/kindred-keeper"
+      },
+      {
+        "name": "Sphere Cleric",
+        "slug": "sphere-cleric",
+        "url": "http://spheresofpower.wikidot.com/sphere-cleric"
+      },
+      {
+        "name": "Tech Priest",
+        "slug": "tech-priest",
+        "url": "http://spheresofpower.wikidot.com/tech-priest"
+      },
+      {
+        "name": "Cleric Domains",
+        "slug": "cleric-domains",
+        "url": "http://spheresofpower.wikidot.com/cleric-domains"
+      }
+    ],
+    "Druid": [
+      {
+        "name": "Avatar",
+        "slug": "avatar",
+        "url": "http://spheresofpower.wikidot.com/avatar"
+      },
+      {
+        "name": "Child of Hope",
+        "slug": "child-of-hope",
+        "url": "http://spheresofpower.wikidot.com/child-of-hope"
+      },
+      {
+        "name": "Sphere Druid",
+        "slug": "sphere-druid",
+        "url": "http://spheresofpower.wikidot.com/sphere-druid"
+      },
+      {
+        "name": "Spirit Mender",
+        "slug": "spirit-mender",
+        "url": "http://spheresofpower.wikidot.com/spirit-mender"
+      }
+    ],
+    "Fighter": [
+      {
+        "name": "Coiled Blade",
+        "slug": "coiled-blade",
+        "url": "http://spheresofpower.wikidot.com/coiled-blade"
+      },
+      {
+        "name": "Fracture",
+        "slug": "fracture",
+        "url": "http://spheresofpower.wikidot.com/fracture"
+      },
+      {
+        "name": "Impossible Warrior",
+        "slug": "impossible-warrior",
+        "url": "http://spheresofpower.wikidot.com/impossible-warrior"
+      },
+      {
+        "name": "Impressor",
+        "slug": "impressor",
+        "url": "http://spheresofpower.wikidot.com/impressor"
+      },
+      {
+        "name": "Mulus",
+        "slug": "mulus",
+        "url": "http://spheresofpower.wikidot.com/mulus"
+      },
+      {
+        "name": "Runesinger",
+        "slug": "runesinger",
+        "url": "http://spheresofpower.wikidot.com/runesinger"
+      },
+      {
+        "name": "Soldier",
+        "slug": "soldier",
+        "url": "http://spheresofpower.wikidot.com/soldier"
+      },
+      {
+        "name": "Spirit-Wielder",
+        "slug": "spirit-wielder",
+        "url": "http://spheresofpower.wikidot.com/spirit-wielder"
+      },
+      {
+        "name": "War Hero",
+        "slug": "war-hero",
+        "url": "http://spheresofpower.wikidot.com/war-hero"
+      }
+    ],
+    "Gunslinger": [
+      {
+        "name": "Clockstopper",
+        "slug": "clockstopper",
+        "url": "http://spheresofpower.wikidot.com/clockstopper"
+      },
+      {
+        "name": "Cursed Stranger",
+        "slug": "cursed-stranger",
+        "url": "http://spheresofpower.wikidot.com/cursed-stranger"
+      },
+      {
+        "name": "Game Hunter",
+        "slug": "game-hunter",
+        "url": "http://spheresofpower.wikidot.com/game-hunter"
+      },
+      {
+        "name": "Glass-Eye Gunmage",
+        "slug": "glass-eye-gunmage",
+        "url": "http://spheresofpower.wikidot.com/glass-eye-gunmage"
+      },
+      {
+        "name": "Gunfighter",
+        "slug": "gunfighter",
+        "url": "http://spheresofpower.wikidot.com/gunfighter"
+      },
+      {
+        "name": "Junkshot",
+        "slug": "junkshot",
+        "url": "http://spheresofpower.wikidot.com/junkshot"
+      },
+      {
+        "name": "Space Marine",
+        "slug": "space-marine",
+        "url": "http://spheresofpower.wikidot.com/space-marine"
+      },
+      {
+        "name": "Spellshot Engineer",
+        "slug": "spellshot-engineer",
+        "url": "http://spheresofpower.wikidot.com/spellshot-engineer"
+      },
+      {
+        "name": "Wandslinger",
+        "slug": "wandslinger",
+        "url": "http://spheresofpower.wikidot.com/wandslinger"
+      }
+    ],
+    "Hunter": [
+      {
+        "name": "Beast Bender",
+        "slug": "beast-bender",
+        "url": "http://spheresofpower.wikidot.com/beast-bender"
+      },
+      {
+        "name": "Beastmaster",
+        "slug": "beastmaster",
+        "url": "http://spheresofpower.wikidot.com/beastmaster"
+      },
+      {
+        "name": "Greenrunner",
+        "slug": "greenrunner",
+        "url": "http://spheresofpower.wikidot.com/greenrunner"
+      },
+      {
+        "name": "Master of the Hunt",
+        "slug": "master-of-the-hunt",
+        "url": "http://spheresofpower.wikidot.com/master-of-the-hunt"
+      },
+      {
+        "name": "Pellucid Hunter",
+        "slug": "pellucid-hunter",
+        "url": "http://spheresofpower.wikidot.com/pellucid-hunter"
+      },
+      {
+        "name": "Sphere Hunter",
+        "slug": "sphere-hunter",
+        "url": "http://spheresofpower.wikidot.com/sphere-hunter"
+      }
+    ],
+    "Inquisitor": [
+      {
+        "name": "Champion Inquisitor",
+        "slug": "champion-inquisitor",
+        "url": "http://spheresofpower.wikidot.com/champion-inquisitor"
+      },
+      {
+        "name": "Ordained Hunter",
+        "slug": "ordained-hunter",
+        "url": "http://spheresofpower.wikidot.com/ordained-hunter"
+      },
+      {
+        "name": "Shield of the Gods",
+        "slug": "shield-of-the-gods",
+        "url": "http://spheresofpower.wikidot.com/shield-of-the-gods"
+      },
+      {
+        "name": "Sincrafter",
+        "slug": "sincrafter",
+        "url": "http://spheresofpower.wikidot.com/sincrafter"
+      },
+      {
+        "name": "Soldier of the Gods",
+        "slug": "soldier-of-the-gods",
+        "url": "http://spheresofpower.wikidot.com/soldier-of-the-gods"
+      },
+      {
+        "name": "Spellwarper",
+        "slug": "spellwarper",
+        "url": "http://spheresofpower.wikidot.com/spellwarper"
+      },
+      {
+        "name": "Sphere Inquisitor",
+        "slug": "sphere-inquisitor",
+        "url": "http://spheresofpower.wikidot.com/sphere-inquisitor"
+      },
+      {
+        "name": "Inquisitor Inquisitions",
+        "slug": "inquisitor-inquisitions",
+        "url": "http://spheresofpower.wikidot.com/inquisitor-inquisitions"
+      }
+    ],
+    "Investigator": [
+      {
+        "name": "Acupuncturist",
+        "slug": "acupuncturist",
+        "url": "http://spheresofpower.wikidot.com/acupuncturist"
+      },
+      {
+        "name": "Battered Detective",
+        "slug": "battered-detective",
+        "url": "http://spheresofpower.wikidot.com/battered-detective"
+      },
+      {
+        "name": "Cerebral Analyst",
+        "slug": "cerebral-analyst",
+        "url": "http://spheresofpower.wikidot.com/cerebral-analyst"
+      },
+      {
+        "name": "Champion Investigator",
+        "slug": "champion-investigator",
+        "url": "http://spheresofpower.wikidot.com/champion-investigator"
+      },
+      {
+        "name": "Detective",
+        "slug": "detective",
+        "url": "http://spheresofpower.wikidot.com/detective"
+      },
+      {
+        "name": "Nightblazer",
+        "slug": "nightblazer",
+        "url": "http://spheresofpower.wikidot.com/nightblazer"
+      },
+      {
+        "name": "Psyforensic",
+        "slug": "psyforensic",
+        "url": "http://spheresofpower.wikidot.com/psyforensic"
+      },
+      {
+        "name": "Sphere Investigator",
+        "slug": "sphere-investigator",
+        "url": "http://spheresofpower.wikidot.com/sphere-investigator"
+      },
+      {
+        "name": "Tactician",
+        "slug": "tactician",
+        "url": "http://spheresofpower.wikidot.com/tactician"
+      },
+      {
+        "name": "Investigator Talents",
+        "slug": "investigator-talents",
+        "url": "http://spheresofpower.wikidot.com/investigator-talents"
+      }
+    ],
+    "Kineticist": [
+      {
+        "name": "Scion",
+        "slug": "scion",
+        "url": "http://spheresofpower.wikidot.com/scion"
+      }
+    ],
+    "Magus": [
+      {
+        "name": "Arcane Weaponeer",
+        "slug": "arcane-weaponeer",
+        "url": "http://spheresofpower.wikidot.com/arcane-weaponeer"
+      },
+      {
+        "name": "Mystic",
+        "slug": "mystic",
+        "url": "http://spheresofpower.wikidot.com/mystic"
+      },
+      {
+        "name": "Precog",
+        "slug": "precog",
+        "url": "http://spheresofpower.wikidot.com/precog"
+      },
+      {
+        "name": "Runic Knight",
+        "slug": "runic-knight",
+        "url": "http://spheresofpower.wikidot.com/runic-knight"
+      },
+      {
+        "name": "Sphere Magus",
+        "slug": "sphere-magus",
+        "url": "http://spheresofpower.wikidot.com/sphere-magus"
+      },
+      {
+        "name": "Magus Arcana",
+        "slug": "magus-arcana",
+        "url": "http://spheresofpower.wikidot.com/magus-arcana"
+      }
+    ],
+    "Medium": [
+      {
+        "name": "Aspect Host",
+        "slug": "aspect-host",
+        "url": "http://spheresofpower.wikidot.com/aspect-host"
+      },
+      {
+        "name": "Champion Medium",
+        "slug": "champion-medium",
+        "url": "http://spheresofpower.wikidot.com/champion-medium"
+      },
+      {
+        "name": "Harrow Medium",
+        "slug": "harrow-medium",
+        "url": "http://spheresofpower.wikidot.com/harrow-medium"
+      },
+      {
+        "name": "Initiate",
+        "slug": "initiate",
+        "url": "http://spheresofpower.wikidot.com/initiate"
+      },
+      {
+        "name": "Sphere Medium",
+        "slug": "sphere-medium",
+        "url": "http://spheresofpower.wikidot.com/sphere-medium"
+      },
+      {
+        "name": "Visionary",
+        "slug": "visionary",
+        "url": "http://spheresofpower.wikidot.com/visionary"
+      }
+    ],
+    "Mesmerist": [
+      {
+        "name": "Champion Mesmerist",
+        "slug": "champion-mesmerist",
+        "url": "http://spheresofpower.wikidot.com/champion-mesmerist"
+      },
+      {
+        "name": "Conniving Bastard",
+        "slug": "conniving-bastard",
+        "url": "http://spheresofpower.wikidot.com/conniving-bastard"
+      },
+      {
+        "name": "Incendiary",
+        "slug": "incendiary",
+        "url": "http://spheresofpower.wikidot.com/incendiary"
+      },
+      {
+        "name": "Nocturnus",
+        "slug": "nocturnus",
+        "url": "http://spheresofpower.wikidot.com/nocturnus"
+      },
+      {
+        "name": "Sphere Mesmerist",
+        "slug": "sphere-mesmerist",
+        "url": "http://spheresofpower.wikidot.com/sphere-mesmerist"
+      }
+    ],
+    "Monk": [
+      {
+        "name": "Beastsoul Monk",
+        "slug": "beastsoul-monk",
+        "url": "http://spheresofpower.wikidot.com/beastsoul-monk"
+      },
+      {
+        "name": "Monkmentum",
+        "slug": "monkmentum",
+        "url": "http://spheresofpower.wikidot.com/monkmentum"
+      },
+      {
+        "name": "Street Fighter",
+        "slug": "street-fighter",
+        "url": "http://spheresofpower.wikidot.com/street-fighter"
+      },
+      {
+        "name": "Sundering Hand",
+        "slug": "sundering-hand",
+        "url": "http://spheresofpower.wikidot.com/sundering-hand"
+      }
+    ],
+    "Monk, Unchained": [
+      {
+        "name": "Adamant Disciple",
+        "slug": "adamant-disciple",
+        "url": "http://spheresofpower.wikidot.com/adamant-disciple"
+      },
+      {
+        "name": "Beastsoul Monk",
+        "slug": "beastsoul-monk",
+        "url": "http://spheresofpower.wikidot.com/beastsoul-monk"
+      },
+      {
+        "name": "Disciple of Chaos",
+        "slug": "disciple-of-chaos",
+        "url": "http://spheresofpower.wikidot.com/disciple-of-chaos"
+      },
+      {
+        "name": "Drifting Lotus",
+        "slug": "drifting-lotus",
+        "url": "http://spheresofpower.wikidot.com/drifting-lotus"
+      },
+      {
+        "name": "Erudite Soul",
+        "slug": "erudite-soul",
+        "url": "http://spheresofpower.wikidot.com/erudite-soul"
+      },
+      {
+        "name": "Master of Many Stances",
+        "slug": "master-of-many-stances",
+        "url": "http://spheresofpower.wikidot.com/master-of-many-stances"
+      },
+      {
+        "name": "Monkmentum",
+        "slug": "monkmentum",
+        "url": "http://spheresofpower.wikidot.com/monkmentum"
+      },
+      {
+        "name": "Shadow Boxer",
+        "slug": "shadow-boxer",
+        "url": "http://spheresofpower.wikidot.com/shadow-boxer"
+      },
+      {
+        "name": "Steelsoul Monk",
+        "slug": "steelsoul-monk",
+        "url": "http://spheresofpower.wikidot.com/steelsoul-monk"
+      },
+      {
+        "name": "Street Fighter",
+        "slug": "street-fighter",
+        "url": "http://spheresofpower.wikidot.com/street-fighter"
+      },
+      {
+        "name": "Sundering Hand",
+        "slug": "sundering-hand",
+        "url": "http://spheresofpower.wikidot.com/sundering-hand"
+      },
+      {
+        "name": "The Stupor Monk",
+        "slug": "the-stupor-monk",
+        "url": "http://spheresofpower.wikidot.com/the-stupor-monk"
+      },
+      {
+        "name": "Tranquil Soul",
+        "slug": "tranquil-soul",
+        "url": "http://spheresofpower.wikidot.com/tranquil-soul"
+      },
+      {
+        "name": "Yamabushi",
+        "slug": "yamabushi",
+        "url": "http://spheresofpower.wikidot.com/yamabushi"
+      },
+      {
+        "name": "Ki Powers",
+        "slug": "ki-powers",
+        "url": "http://spheresofpower.wikidot.com/ki-powers"
+      }
+    ],
+    "Ninja": [
+      {
+        "name": "Ghost Stepper",
+        "slug": "ghost-stepper",
+        "url": "http://spheresofpower.wikidot.com/ghost-stepper"
+      },
+      {
+        "name": "Shinobi",
+        "slug": "shinobi",
+        "url": "http://spheresofpower.wikidot.com/shinobi"
+      },
+      {
+        "name": "Shrouded Operative",
+        "slug": "shrouded-operative",
+        "url": "http://spheresofpower.wikidot.com/shrouded-operative"
+      }
+    ],
+    "Occultist": [
+      {
+        "name": "Fanebound Mystic",
+        "slug": "fanebound-mystic",
+        "url": "http://spheresofpower.wikidot.com/fanebound-mystic"
+      },
+      {
+        "name": "Glory Seeker",
+        "slug": "glory-seeker",
+        "url": "http://spheresofpower.wikidot.com/glory-seeker"
+      },
+      {
+        "name": "Lauriger",
+        "slug": "lauriger",
+        "url": "http://spheresofpower.wikidot.com/lauriger"
+      },
+      {
+        "name": "Reliquary Keeper",
+        "slug": "reliquary-keeper",
+        "url": "http://spheresofpower.wikidot.com/reliquary-keeper"
+      }
+    ],
+    "Oracle": [
+      {
+        "name": "Augur",
+        "slug": "augur",
+        "url": "http://spheresofpower.wikidot.com/augur"
+      },
+      {
+        "name": "Sphere Oracle",
+        "slug": "sphere-oracle",
+        "url": "http://spheresofpower.wikidot.com/sphere-oracle"
+      }
+    ],
+    "Paladin": [
+      {
+        "name": "Antimage",
+        "slug": "antimage",
+        "url": "http://spheresofpower.wikidot.com/antimage"
+      },
+      {
+        "name": "Arbiter",
+        "slug": "arbiter",
+        "url": "http://spheresofpower.wikidot.com/arbiter"
+      },
+      {
+        "name": "Avowed",
+        "slug": "avowed",
+        "url": "http://spheresofpower.wikidot.com/avowed"
+      },
+      {
+        "name": "Champion Of The Cause",
+        "slug": "champion-of-the-cause",
+        "url": "http://spheresofpower.wikidot.com/champion-of-the-cause"
+      },
+      {
+        "name": "Dirt Spattered Angel",
+        "slug": "dirt-spattered-angel",
+        "url": "http://spheresofpower.wikidot.com/dirt-spattered-angel"
+      },
+      {
+        "name": "Grand Purifier",
+        "slug": "grand-purifier",
+        "url": "http://spheresofpower.wikidot.com/grand-purifier"
+      },
+      {
+        "name": "Parzivalian Knight",
+        "slug": "parzivalian-knight",
+        "url": "http://spheresofpower.wikidot.com/parzivalian-knight"
+      },
+      {
+        "name": "Sphere Paladin",
+        "slug": "sphere-paladin",
+        "url": "http://spheresofpower.wikidot.com/sphere-paladin"
+      },
+      {
+        "name": "Spheres Oathbound",
+        "slug": "spheres-oathbound",
+        "url": "http://spheresofpower.wikidot.com/spheres-oathbound"
+      },
+      {
+        "name": "Time Knight",
+        "slug": "time-knight",
+        "url": "http://spheresofpower.wikidot.com/time-knight"
+      },
+      {
+        "name": "Valiant Champion",
+        "slug": "valiant-champion",
+        "url": "http://spheresofpower.wikidot.com/valiant-champion"
+      },
+      {
+        "name": "Warrior of Blind Faith",
+        "slug": "warrior-of-blind-faith",
+        "url": "http://spheresofpower.wikidot.com/warrior-of-blind-faith"
+      }
+    ],
+    "Psychic": [
+      {
+        "name": "Ascendant Mind",
+        "slug": "ascendant-mind",
+        "url": "http://spheresofpower.wikidot.com/ascendant-mind"
+      },
+      {
+        "name": "Esper",
+        "slug": "esper",
+        "url": "http://spheresofpower.wikidot.com/esper"
+      }
+    ],
+    "Ranger": [
+      {
+        "name": "Adventurer",
+        "slug": "adventurer",
+        "url": "http://spheresofpower.wikidot.com/adventurer"
+      },
+      {
+        "name": "Apex Predator",
+        "slug": "apex-predator",
+        "url": "http://spheresofpower.wikidot.com/apex-predator"
+      },
+      {
+        "name": "Explorer",
+        "slug": "explorer",
+        "url": "http://spheresofpower.wikidot.com/explorer"
+      },
+      {
+        "name": "Folk Healer",
+        "slug": "folk-healer",
+        "url": "http://spheresofpower.wikidot.com/folk-healer"
+      },
+      {
+        "name": "Geosurveyor",
+        "slug": "geosurveyor",
+        "url": "http://spheresofpower.wikidot.com/geosurveyor"
+      },
+      {
+        "name": "Jikininki",
+        "slug": "jikininki",
+        "url": "http://spheresofpower.wikidot.com/jikininki"
+      },
+      {
+        "name": "Nature's Blade",
+        "slug": "nature-s-blade",
+        "url": "http://spheresofpower.wikidot.com/nature-s-blade"
+      },
+      {
+        "name": "Sphere Ranger",
+        "slug": "sphere-ranger",
+        "url": "http://spheresofpower.wikidot.com/sphere-ranger"
+      },
+      {
+        "name": "Temporal Trapper",
+        "slug": "temporal-trapper",
+        "url": "http://spheresofpower.wikidot.com/temporal-trapper"
+      },
+      {
+        "name": "Wayfarer",
+        "slug": "wayfarer",
+        "url": "http://spheresofpower.wikidot.com/wayfarer"
+      }
+    ],
+    "Rogue": [
+      {
+        "name": "Canny Scoundrel",
+        "slug": "canny-scoundrel",
+        "url": "http://spheresofpower.wikidot.com/canny-scoundrel"
+      },
+      {
+        "name": "Ghost Stepper",
+        "slug": "ghost-stepper",
+        "url": "http://spheresofpower.wikidot.com/ghost-stepper"
+      },
+      {
+        "name": "Lucky Bastard",
+        "slug": "lucky-bastard",
+        "url": "http://spheresofpower.wikidot.com/lucky-bastard"
+      },
+      {
+        "name": "Snake Oil Salesman",
+        "slug": "snake-oil-salesman",
+        "url": "http://spheresofpower.wikidot.com/snake-oil-salesman"
+      },
+      {
+        "name": "Spectral Infiltrator",
+        "slug": "spectral-infiltrator",
+        "url": "http://spheresofpower.wikidot.com/spectral-infiltrator"
+      },
+      {
+        "name": "Time Thief",
+        "slug": "time-thief",
+        "url": "http://spheresofpower.wikidot.com/time-thief"
+      }
+    ],
+    "Rogue, Unchained": [
+      {
+        "name": "Canny Scoundrel",
+        "slug": "canny-scoundrel",
+        "url": "http://spheresofpower.wikidot.com/canny-scoundrel"
+      },
+      {
+        "name": "Deadly Assassin",
+        "slug": "deadly-assassin",
+        "url": "http://spheresofpower.wikidot.com/deadly-assassin"
+      },
+      {
+        "name": "Ghost Stepper",
+        "slug": "ghost-stepper",
+        "url": "http://spheresofpower.wikidot.com/ghost-stepper"
+      },
+      {
+        "name": "Grifter",
+        "slug": "grifter",
+        "url": "http://spheresofpower.wikidot.com/grifter"
+      },
+      {
+        "name": "Grinning Brigand",
+        "slug": "grinning-brigand",
+        "url": "http://spheresofpower.wikidot.com/grinning-brigand"
+      },
+      {
+        "name": "Lucky Bastard",
+        "slug": "lucky-bastard",
+        "url": "http://spheresofpower.wikidot.com/lucky-bastard"
+      },
+      {
+        "name": "Mesmer",
+        "slug": "mesmer",
+        "url": "http://spheresofpower.wikidot.com/mesmer"
+      },
+      {
+        "name": "Shade",
+        "slug": "shade",
+        "url": "http://spheresofpower.wikidot.com/shade"
+      },
+      {
+        "name": "Spectral Infiltrator",
+        "slug": "spectral-infiltrator",
+        "url": "http://spheresofpower.wikidot.com/spectral-infiltrator"
+      },
+      {
+        "name": "Talent Thief",
+        "slug": "talent-thief",
+        "url": "http://spheresofpower.wikidot.com/talent-thief"
+      },
+      {
+        "name": "Time Thief",
+        "slug": "time-thief",
+        "url": "http://spheresofpower.wikidot.com/time-thief"
+      },
+      {
+        "name": "Treasure Seeker",
+        "slug": "treasure-seeker",
+        "url": "http://spheresofpower.wikidot.com/treasure-seeker"
+      },
+      {
+        "name": "Rogue Talents",
+        "slug": "rogue-talents",
+        "url": "http://spheresofpower.wikidot.com/rogue-talents"
+      }
+    ],
+    "Samurai": [
+      {
+        "name": "Blind Swordsman",
+        "slug": "blind-swordsman",
+        "url": "http://spheresofpower.wikidot.com/blind-swordsman"
+      },
+      {
+        "name": "Fabled Blade",
+        "slug": "fabled-blade",
+        "url": "http://spheresofpower.wikidot.com/fabled-blade"
+      },
+      {
+        "name": "Honorbound",
+        "slug": "honorbound",
+        "url": "http://spheresofpower.wikidot.com/honorbound"
+      },
+      {
+        "name": "Wandering Swordsman",
+        "slug": "wandering-swordsman",
+        "url": "http://spheresofpower.wikidot.com/wandering-swordsman"
+      }
+    ],
+    "Shaman": [
+      {
+        "name": "Dirgesinger",
+        "slug": "dirgesinger",
+        "url": "http://spheresofpower.wikidot.com/dirgesinger"
+      },
+      {
+        "name": "Sphere Shaman",
+        "slug": "sphere-shaman",
+        "url": "http://spheresofpower.wikidot.com/sphere-shaman"
+      },
+      {
+        "name": "Shaman and Witch Hexes",
+        "slug": "witch-hexes",
+        "url": "http://spheresofpower.wikidot.com/witch-hexes"
+      }
+    ],
+    "Skald": [
+      {
+        "name": "Growling Marauder",
+        "slug": "growling-marauder",
+        "url": "http://spheresofpower.wikidot.com/growling-marauder"
+      },
+      {
+        "name": "Masterwork Chronicler",
+        "slug": "masterwork-chronicler",
+        "url": "http://spheresofpower.wikidot.com/masterwork-chronicler"
+      },
+      {
+        "name": "Primordia",
+        "slug": "primordia",
+        "url": "http://spheresofpower.wikidot.com/primordia"
+      },
+      {
+        "name": "Skaldic Poet",
+        "slug": "skaldic-poet",
+        "url": "http://spheresofpower.wikidot.com/skaldic-poet"
+      },
+      {
+        "name": "Sphere Skald",
+        "slug": "sphere-skald",
+        "url": "http://spheresofpower.wikidot.com/sphere-skald"
+      },
+      {
+        "name": "Storm Herald",
+        "slug": "storm-herald",
+        "url": "http://spheresofpower.wikidot.com/storm-herald"
+      }
+    ],
+    "Slayer": [
+      {
+        "name": "Ghost Stepper",
+        "slug": "ghost-stepper",
+        "url": "http://spheresofpower.wikidot.com/ghost-stepper"
+      },
+      {
+        "name": "Guild Assassin",
+        "slug": "guild-assassin",
+        "url": "http://spheresofpower.wikidot.com/guild-assassin"
+      },
+      {
+        "name": "Mercenary",
+        "slug": "mercenary",
+        "url": "http://spheresofpower.wikidot.com/mercenary"
+      },
+      {
+        "name": "Time Stalker",
+        "slug": "time-stalker",
+        "url": "http://spheresofpower.wikidot.com/time-stalker"
+      },
+      {
+        "name": "Slayer Talents",
+        "slug": "slayer-talents",
+        "url": "http://spheresofpower.wikidot.com/slayer-talents"
+      }
+    ],
+    "Sorcerer": [
+      {
+        "name": "Inheritor",
+        "slug": "inheritor",
+        "url": "http://spheresofpower.wikidot.com/inheritor"
+      },
+      {
+        "name": "Sphere Sorcerer",
+        "slug": "sphere-sorcerer",
+        "url": "http://spheresofpower.wikidot.com/sphere-sorcerer"
+      },
+      {
+        "name": "Sorcerer Bloodlines",
+        "slug": "sorcerer-bloodlines",
+        "url": "http://spheresofpower.wikidot.com/sorcerer-bloodlines"
+      }
+    ],
+    "Spiritualist": [
+      {
+        "name": "Martial Spiritualist",
+        "slug": "martial-spiritualist",
+        "url": "http://spheresofpower.wikidot.com/martial-spiritualist"
+      },
+      {
+        "name": "Psychomancer",
+        "slug": "psychomancer",
+        "url": "http://spheresofpower.wikidot.com/psychomancer"
+      },
+      {
+        "name": "Phantom Options",
+        "slug": "phantom-options",
+        "url": "http://spheresofpower.wikidot.com/phantom-options"
+      }
+    ],
+    "Summoner": [
+      {
+        "name": "Champion Summoner",
+        "slug": "champion-summoner",
+        "url": "http://spheresofpower.wikidot.com/champion-summoner"
+      },
+      {
+        "name": "Mirrored Soul",
+        "slug": "mirrored-soul",
+        "url": "http://spheresofpower.wikidot.com/mirrored-soul"
+      },
+      {
+        "name": "Nyancaller",
+        "slug": "nyancaller",
+        "url": "http://spheresofpower.wikidot.com/nyancaller"
+      },
+      {
+        "name": "Soul Binder",
+        "slug": "soul-binder",
+        "url": "http://spheresofpower.wikidot.com/soul-binder"
+      },
+      {
+        "name": "Sphere Summoner",
+        "slug": "sphere-summoner",
+        "url": "http://spheresofpower.wikidot.com/sphere-summoner"
+      },
+      {
+        "name": "Void Conduit",
+        "slug": "void-conduit",
+        "url": "http://spheresofpower.wikidot.com/void-conduit"
+      }
+    ],
+    "Summoner, Unchained": [
+      {
+        "name": "Champion Summoner",
+        "slug": "champion-summoner",
+        "url": "http://spheresofpower.wikidot.com/champion-summoner"
+      },
+      {
+        "name": "Mirrored Soul",
+        "slug": "mirrored-soul",
+        "url": "http://spheresofpower.wikidot.com/mirrored-soul"
+      },
+      {
+        "name": "Nyancaller",
+        "slug": "nyancaller",
+        "url": "http://spheresofpower.wikidot.com/nyancaller"
+      },
+      {
+        "name": "Soul Binder",
+        "slug": "soul-binder",
+        "url": "http://spheresofpower.wikidot.com/soul-binder"
+      },
+      {
+        "name": "Sphere Summoner",
+        "slug": "sphere-summoner",
+        "url": "http://spheresofpower.wikidot.com/sphere-summoner"
+      },
+      {
+        "name": "Void Conduit",
+        "slug": "void-conduit",
+        "url": "http://spheresofpower.wikidot.com/void-conduit"
+      }
+    ],
+    "Swashbuckler": [
+      {
+        "name": "Charming Fencer",
+        "slug": "charming-fencer",
+        "url": "http://spheresofpower.wikidot.com/charming-fencer"
+      },
+      {
+        "name": "Dancing Blade",
+        "slug": "dancing-blade",
+        "url": "http://spheresofpower.wikidot.com/dancing-blade"
+      },
+      {
+        "name": "Dervish",
+        "slug": "dervish",
+        "url": "http://spheresofpower.wikidot.com/dervish"
+      },
+      {
+        "name": "Hasted Blade",
+        "slug": "hasted-blade",
+        "url": "http://spheresofpower.wikidot.com/hasted-blade"
+      },
+      {
+        "name": "Prismatic Duelist",
+        "slug": "prismatic-duelist",
+        "url": "http://spheresofpower.wikidot.com/prismatic-duelist"
+      },
+      {
+        "name": "Swashbuckler Deeds",
+        "slug": "swashbuckler-deeds",
+        "url": "http://spheresofpower.wikidot.com/swashbuckler-deeds"
+      }
+    ],
+    "Vigilante": [
+      {
+        "name": "Alter-Ego",
+        "slug": "alter-ego",
+        "url": "http://spheresofpower.wikidot.com/alter-ego"
+      },
+      {
+        "name": "Hidden Master",
+        "slug": "hidden-master",
+        "url": "http://spheresofpower.wikidot.com/hidden-master"
+      },
+      {
+        "name": "Informant",
+        "slug": "informant",
+        "url": "http://spheresofpower.wikidot.com/informant"
+      },
+      {
+        "name": "Living Banner",
+        "slug": "living-banner",
+        "url": "http://spheresofpower.wikidot.com/living-banner"
+      },
+      {
+        "name": "Masked Adept",
+        "slug": "masked-adept",
+        "url": "http://spheresofpower.wikidot.com/masked-adept"
+      },
+      {
+        "name": "Possessed",
+        "slug": "possessed",
+        "url": "http://spheresofpower.wikidot.com/possessed"
+      },
+      {
+        "name": "Shadow Warrior",
+        "slug": "shadow-warrior",
+        "url": "http://spheresofpower.wikidot.com/shadow-warrior"
+      },
+      {
+        "name": "Symbol of Valor",
+        "slug": "symbol-of-valor",
+        "url": "http://spheresofpower.wikidot.com/symbol-of-valor"
+      },
+      {
+        "name": "Vigilante Talents",
+        "slug": "vigilante-talents",
+        "url": "http://spheresofpower.wikidot.com/vigilante-talents"
+      }
+    ],
+    "Warpriest": [
+      {
+        "name": "Bastion of Conviction",
+        "slug": "bastion-of-conviction",
+        "url": "http://spheresofpower.wikidot.com/bastion-of-conviction"
+      },
+      {
+        "name": "Champion Warpriest",
+        "slug": "champion-warpriest",
+        "url": "http://spheresofpower.wikidot.com/champion-warpriest"
+      },
+      {
+        "name": "Devoted Disciple",
+        "slug": "devoted-disciple",
+        "url": "http://spheresofpower.wikidot.com/devoted-disciple"
+      },
+      {
+        "name": "Divine Heretic",
+        "slug": "divine-heretic",
+        "url": "http://spheresofpower.wikidot.com/divine-heretic"
+      },
+      {
+        "name": "Divinitech Pilot",
+        "slug": "divinitech-pilot",
+        "url": "http://spheresofpower.wikidot.com/divinitech-pilot"
+      },
+      {
+        "name": "Sphere Warpriest",
+        "slug": "sphere-warpriest",
+        "url": "http://spheresofpower.wikidot.com/sphere-warpriest"
+      },
+      {
+        "name": "Warpriest Blessings",
+        "slug": "warpriest-blessings",
+        "url": "http://spheresofpower.wikidot.com/warpriest-blessings"
+      }
+    ],
+    "Witch": [
+      {
+        "name": "Hexblade",
+        "slug": "hexblade",
+        "url": "http://spheresofpower.wikidot.com/hexblade"
+      },
+      {
+        "name": "Sphere Witch",
+        "slug": "sphere-witch",
+        "url": "http://spheresofpower.wikidot.com/sphere-witch"
+      },
+      {
+        "name": "Toilbrook",
+        "slug": "toilbrook",
+        "url": "http://spheresofpower.wikidot.com/toilbrook"
+      },
+      {
+        "name": "Withering Witch",
+        "slug": "withering-witch",
+        "url": "http://spheresofpower.wikidot.com/withering-witch"
+      },
+      {
+        "name": "Witch Hexes",
+        "slug": "witch-hexes",
+        "url": "http://spheresofpower.wikidot.com/witch-hexes"
+      }
+    ],
+    "Wizard": [
+      {
+        "name": "Cosmic Sage",
+        "slug": "cosmic-sage",
+        "url": "http://spheresofpower.wikidot.com/cosmic-sage"
+      },
+      {
+        "name": "Eclectic Researcher",
+        "slug": "eclectic-researcher",
+        "url": "http://spheresofpower.wikidot.com/eclectic-researcher"
+      },
+      {
+        "name": "Magitect",
+        "slug": "magitect",
+        "url": "http://spheresofpower.wikidot.com/magitect"
+      },
+      {
+        "name": "Sphere Wizard",
+        "slug": "sphere-wizard",
+        "url": "http://spheresofpower.wikidot.com/sphere-wizard"
+      }
+    ],
+    "Animal Companions": [
+      {
+        "name": "Martial Beast",
+        "slug": "martial-beast",
+        "url": "http://spheresofpower.wikidot.com/martial-beast"
+      }
+    ],
+    "Familiars": [
+      {
+        "name": "Beast of Omen",
+        "slug": "beast-of-omen",
+        "url": "http://spheresofpower.wikidot.com/beast-of-omen"
+      },
+      {
+        "name": "Dream Guide",
+        "slug": "dream-guide",
+        "url": "http://spheresofpower.wikidot.com/dream-guide"
+      },
+      {
+        "name": "Shadow Familiar",
+        "slug": "shadow-familiar",
+        "url": "http://spheresofpower.wikidot.com/shadow-familiar"
+      },
+      {
+        "name": "Willing Martyr",
+        "slug": "willing-martyr",
+        "url": "http://spheresofpower.wikidot.com/willing-martyr"
+      }
+    ],
+    "Aegis": [
+      {
+        "name": "Ascendant",
+        "slug": "ascendant",
+        "url": "http://spheresofpower.wikidot.com/ascendant"
+      },
+      {
+        "name": "Coral Knight",
+        "slug": "coral-knight",
+        "url": "http://spheresofpower.wikidot.com/coral-knight"
+      },
+      {
+        "name": "Mekanikos",
+        "slug": "mekanikos",
+        "url": "http://spheresofpower.wikidot.com/mekanikos"
+      }
+    ],
+    "Cantor": [
+      {
+        "name": "Champion Cantor",
+        "slug": "champion-cantor",
+        "url": "http://spheresofpower.wikidot.com/champion-cantor"
+      },
+      {
+        "name": "Cantor Hymns",
+        "slug": "cantor-hymns",
+        "url": "http://spheresofpower.wikidot.com/cantor-hymns"
+      }
+    ],
+    "Cryptic": [
+      {
+        "name": "Extricator",
+        "slug": "extricator",
+        "url": "http://spheresofpower.wikidot.com/extricator"
+      }
+    ],
+    "Psion": [
+      {
+        "name": "Sphere Psion",
+        "slug": "sphere-psion",
+        "url": "http://spheresofpower.wikidot.com/sphere-psion"
+      },
+      {
+        "name": "Worldweaver",
+        "slug": "worldweaver",
+        "url": "http://spheresofpower.wikidot.com/worldweaver"
+      }
+    ],
+    "Psychic Warrior": [
+      {
+        "name": "Miracle Soldier",
+        "slug": "miracle-soldier",
+        "url": "http://spheresofpower.wikidot.com/miracle-soldier"
+      }
+    ],
+    "Soulknife": [
+      {
+        "name": "Epoch-Walker",
+        "slug": "epoch-walker",
+        "url": "http://spheresofpower.wikidot.com/epoch-walker"
+      },
+      {
+        "name": "Soulknife Blade Skills",
+        "slug": "soulknife-blade-skills",
+        "url": "http://spheresofpower.wikidot.com/soulknife-blade-skills"
+      }
+    ],
+    "Voltaic": [
+      {
+        "name": "Spheres Voltaic",
+        "slug": "spheres-voltaic",
+        "url": "http://spheresofpower.wikidot.com/spheres-voltaic"
+      }
+    ],
+    "Wilder": [
+      {
+        "name": "Source Seeker",
+        "slug": "source-seeker",
+        "url": "http://spheresofpower.wikidot.com/source-seeker"
+      },
+      {
+        "name": "Sphere Wilder",
+        "slug": "sphere-wilder",
+        "url": "http://spheresofpower.wikidot.com/sphere-wilder"
+      },
+      {
+        "name": "Stellar Echo",
+        "slug": "stellar-echo",
+        "url": "http://spheresofpower.wikidot.com/stellar-echo"
+      }
+    ],
+    "Demoniac": [
+      {
+        "name": "Sphere Demoniac",
+        "slug": "sphere-demoniac",
+        "url": "http://spheresofpower.wikidot.com/sphere-demoniac"
+      }
+    ],
+    "Diabolist": [
+      {
+        "name": "Sphere Diabolist",
+        "slug": "sphere-diabolist",
+        "url": "http://spheresofpower.wikidot.com/sphere-diabolist"
+      }
+    ],
+    "Exalted": [
+      {
+        "name": "Sphere Exalted",
+        "slug": "sphere-exalted",
+        "url": "http://spheresofpower.wikidot.com/sphere-exalted"
+      }
+    ],
+    "Feysworn": [
+      {
+        "name": "Sphere Feysworn",
+        "slug": "sphere-feysworn",
+        "url": "http://spheresofpower.wikidot.com/sphere-feysworn"
+      }
+    ],
+    "Mystery Cultist": [
+      {
+        "name": "Sphere Mystery Cultist",
+        "slug": "sphere-mystery-cultist",
+        "url": "http://spheresofpower.wikidot.com/sphere-mystery-cultist"
+      }
+    ],
+    "Proctor": [
+      {
+        "name": "Sphere Proctor",
+        "slug": "sphere-proctor",
+        "url": "http://spheresofpower.wikidot.com/sphere-proctor"
+      }
+    ],
+    "Sentinel": [
+      {
+        "name": "Sphere Sentinel",
+        "slug": "sphere-sentinel",
+        "url": "http://spheresofpower.wikidot.com/sphere-sentinel"
+      }
+    ],
+    "Souldrinker": [
+      {
+        "name": "Sphere Souldrinker",
+        "slug": "sphere-souldrinker",
+        "url": "http://spheresofpower.wikidot.com/sphere-souldrinker"
+      }
+    ]
+  }
+}
