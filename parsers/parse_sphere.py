@@ -1,8 +1,11 @@
 #!/usr/bin/env python3
 """
-Spheres of Power Wiki - Parser Universal de Esferas (Capa 2 Pulido)
---------------------------------------------------------------------
-Extrae talentos y reglas con soporte para párrafos, listas (ul/ol) y tablas.
+Spheres of Power Wiki - Parser Universal de Esferas (Capa 2 Pulido con Habilidades Base)
+----------------------------------------------------------------------------------------
+Extrae:
+1. Habilidades Base (Cure, Restore, Invigorate en Life; Destructive Blast en Destruction; Berserking en Berserker, etc.)
+2. Talentos de la esfera categorizados con tags y sub-traits.
+3. Referencias cruzadas (dotes y arquetipos).
 """
 
 import argparse
@@ -22,12 +25,10 @@ def clean_text(text):
     return re.sub(r"[ \t]+", " ", text).strip()
 
 def parse_sub_traits(paragraphs):
-    """Extrae sub-traits cuando un elemento comienza con negrita o encabezado de sub-rasgo."""
     clean_paragraphs = []
     sub_traits = []
     
     for p in paragraphs:
-        # Detectar líneas tipo "Trait Name: Effect description..."
         match = re.match(r"^([A-Z][A-Za-z0-9\s,\/’'-]+?)[:.-]\s+(.+)$", p)
         if match and len(match.group(1).split()) <= 4:
             sub_traits.append({
@@ -40,7 +41,6 @@ def parse_sub_traits(paragraphs):
     return clean_paragraphs, sub_traits
 
 def extract_box_content(box):
-    """Extrae párrafos, listas y tablas preservando la estructura."""
     paragraphs = []
     source = "Core / Ultimate"
     
@@ -61,7 +61,6 @@ def extract_box_content(box):
             if items:
                 paragraphs.append("\n".join(f"• {item}" for item in items))
         elif child.name == "table":
-            # Extraer tabla simple
             rows = []
             for tr in child.find_all("tr"):
                 cells = [clean_text(td.text) for td in tr.find_all(["td", "th"])]
@@ -72,6 +71,59 @@ def extract_box_content(box):
 
     desc_ps, sub_traits = parse_sub_traits(paragraphs)
     return "\n\n".join(desc_ps), sub_traits, source
+
+def extract_base_abilities(container):
+    """Extrae las habilidades y reglas base que se otorgan al desbloquear la esfera."""
+    base_abilities = []
+    seen_names = set()
+
+    for h in container.find_all(["h1", "h2"]):
+        ht = clean_text(h.text)
+        ht_lower = ht.lower()
+
+        # Filtrar títulos irrelevantes o secciones de talentos
+        if any(w in ht_lower for w in ["talent", "table of contents", "special release", "links", "systems", "feats", "archetypes", "wiki", "wild magic"]):
+            continue
+
+        if ht in seen_names:
+            continue
+        seen_names.add(ht)
+
+        paragraphs = []
+        source = "Core / Ultimate"
+
+        curr = h.find_next_sibling()
+        while curr and curr.name not in ["h1", "h2", "h3"]:
+            if curr.name in ["p", "blockquote", "div"]:
+                t = clean_text(curr.text)
+                if t.startswith("Source:"):
+                    source = t
+                elif t:
+                    paragraphs.append(t)
+            elif curr.name in ["ul", "ol"]:
+                items = [clean_text(li.text) for li in curr.find_all("li") if clean_text(li.text)]
+                if items:
+                    paragraphs.append("\n".join(f"• {item}" for item in items))
+            elif curr.name == "table":
+                rows = []
+                for tr in curr.find_all("tr"):
+                    cells = [clean_text(td.text) for td in tr.find_all(["td", "th"])]
+                    if cells:
+                        rows.append(" | ".join(cells))
+                if rows:
+                    paragraphs.append("\n".join(rows))
+            curr = curr.find_next_sibling()
+
+        if paragraphs:
+            desc_ps, sub_traits = parse_sub_traits(paragraphs)
+            base_abilities.append({
+                "name": ht,
+                "source": source,
+                "description": "\n\n".join(desc_ps),
+                "sub_traits": sub_traits
+            })
+
+    return base_abilities
 
 def parse_sphere_file(html_path):
     with open(html_path, "r", encoding="utf-8") as f:
@@ -84,10 +136,13 @@ def parse_sphere_file(html_path):
     if not page_content:
         return None
 
-    # Si hay pestañas (Ultimate vs Original), usamos la pestaña Ultimate (tab-0-0)
     tabs = page_content.find_all("div", id=lambda x: x and x.startswith("wiki-tab-"))
     active_container = tabs[0] if tabs else page_content
 
+    # 1. Extraer Habilidades Base
+    base_abilities = extract_base_abilities(active_container)
+
+    # 2. Extraer Talentos
     talents = []
     seen_headings = set()
 
@@ -164,7 +219,7 @@ def parse_sphere_file(html_path):
                 "sub_traits": sub_traits
             })
 
-    # Extraer referencias cruzadas
+    # 3. Referencias cruzadas
     associated_feats = []
     associated_archetypes = []
     for h in active_container.find_all(["h1", "h2", "h3"]):
@@ -187,6 +242,8 @@ def parse_sphere_file(html_path):
     return {
         "sphere_name": sphere_name,
         "source_file": os.path.basename(html_path),
+        "base_abilities_count": len(base_abilities),
+        "base_abilities": base_abilities,
         "total_talents": len(talents),
         "talents": talents,
         "cross_references": {
@@ -203,8 +260,9 @@ def process_all_spheres():
         print(f"⚠️ No se encontraron archivos HTML en {RAW_SPHERES_DIR}.")
         return
 
-    print(f"🔄 Procesando {len(html_files)} esferas a Capa 2 (JSON)...")
+    print(f"🔄 Procesando {len(html_files)} esferas con Habilidades Base a Capa 2 (JSON)...")
     total_talents_all = 0
+    total_base_all = 0
 
     for html_file in sorted(html_files):
         data = parse_sphere_file(html_file)
@@ -214,8 +272,11 @@ def process_all_spheres():
             with open(out_file, "w", encoding="utf-8") as f:
                 json.dump(data, f, indent=2, ensure_ascii=False)
             total_talents_all += data['total_talents']
+            total_base_all += data['base_abilities_count']
 
-    print(f"🎉 Total de talentos extraídos en todas las esferas: {total_talents_all}")
+    print(f"🎉 Total de esferas procesadas: {len(html_files)}")
+    print(f"✨ Total de habilidades base extraídas: {total_base_all}")
+    print(f"🎯 Total de talentos extraídos: {total_talents_all}")
     print(f"📁 Directorio de salida: {OUTPUT_DIR}")
 
 if __name__ == "__main__":
